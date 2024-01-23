@@ -1,1 +1,9 @@
-I
+# INSTALL INTERSHIP TEST
+
+install:
+
+	 npm i
+
+run:
+
+     npm run dev
