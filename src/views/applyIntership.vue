@@ -1,6 +1,6 @@
 <script setup>
 
-document.title = "Apply Intership | PT. Surya Teknologi Nasional"
+document.title = "Apply Intership"
 </script>
 
 <template>
