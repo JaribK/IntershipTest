@@ -1,3 +1,8 @@
+<script setup>
+
+document.title = "Apply Intership | PT. Surya Teknologi Nasional"
+</script>
+
 <template>
     <div class="bg-blue-300 w-full h-dvh bg-gray text-black">
         <div id="boxform" class=" h-full flex justify-center">
